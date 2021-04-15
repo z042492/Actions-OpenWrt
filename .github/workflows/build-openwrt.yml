@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://gitee.com/xydoc/lede.git
+  REPO_URL: https://github.com/z042492/lede.git
   REPO_BRANCH: dev
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
